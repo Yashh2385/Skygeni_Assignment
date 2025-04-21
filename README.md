@@ -45,5 +45,9 @@ This project answers four business analytics questions using Python and Pandas. 
 
 ## ✅ How to Run
 ```bash
-pip install pandas matplotlib
-python assignment_solution.py
+# Step 1: Install required libraries (if not already installed)
+pip install pandas matplotlib jupyter
+
+# Step 2: Launch the Jupyter Notebook
+jupyter notebook Skygini_Assignment.ipynb
+
