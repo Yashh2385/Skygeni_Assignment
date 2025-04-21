@@ -28,7 +28,7 @@ This project answers four business analytics questions using Python and Pandas. 
 ---
 
 ## 📦 Files Included
-- Code: `assignment_solution.py`
+- Code: `Skygini_assignment.ipynb`
 - Charts and Results: CSVs and PNGs
 - Datasets: 4 original `.csv` files
 
