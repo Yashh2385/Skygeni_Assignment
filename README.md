@@ -35,10 +35,11 @@ This project answers four business analytics questions using Python and Pandas. 
 ---
 
 ## 📷 Screenshot
-![Output Screenshot](screenshot1.png)
-![Output Screenshot](screenshot1.png)
-![Output Screenshot](screenshot1.png)
-![Output Screenshot](screenshot1.png)
+![Output Screenshot](screenshotQ1.png)
+![Output Screenshot](screenshotQ2.png)
+![Output Screenshot](screenshotQ3.png)
+![Output Screenshot](screenshotQ4A.png)
+![Output Screenshot](screenshotQ4B.png)
 
 ---
 
